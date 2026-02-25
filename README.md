@@ -1,16 +1,11 @@
-# cihaza_veri_kaydetme
+# 💾 Cihaza Veri Kaydetme
 
-A new Flutter project.
+Bu proje, Flutter uygulamalarında kullanıcının cihazına yerel olarak veri kaydetme ve okuma işlemlerini öğrenmek amacıyla geliştirilmiştir.
 
-## Getting Started
+## ✨ Özellikler
+* Yerel veritabanı kullanımı
+* Uygulama kapansa bile verilerin kalıcı olarak saklanması
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Kullanılan Teknolojiler
+* **Framework:** Flutter
+* **Dil:** Dart
